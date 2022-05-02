@@ -9,7 +9,7 @@
 }
 
 .navbar{
-    background-color: #28A745;
+    background-color:darkblue;
     
 }
 
@@ -64,12 +64,12 @@
     float: right;
     font-weight: 500;
     font-size: 20pt;
-    color: #28A745;
+    color:darkblue;
     padding: 22px 0 15px 11px;
 }
 
 .form{
-    background-color: #28A745;
+    background-color:darkblue;
     margin-top: 47px;
     padding: 64px 0 29px 0;
     text-align: center;
